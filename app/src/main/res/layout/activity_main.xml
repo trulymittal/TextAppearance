@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/colorAccent"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Headline"
+            android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Title"
+            android:textAppearance="@style/TextAppearance.AppCompat.Title"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Subhead"
+            android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Caption"
+            android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+        />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Large"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Large.Inverse"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large.Inverse"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Medium"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Medium.Inverse"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium.Inverse"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Small"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Body1"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Body2"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Menu"
+            android:textAppearance="@style/TextAppearance.AppCompat.Menu"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Button"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Tooltip"
+            android:textAppearance="@style/TextAppearance.AppCompat.Tooltip"
+
+            />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Display1"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Display2"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Display3"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display3"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Display4"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+            text
+            />
+
+
+    </LinearLayout>
+
+
+</android.support.v4.widget.NestedScrollView>
