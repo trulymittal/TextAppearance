@@ -170,7 +170,6 @@
             android:layout_margin="8dp"
             android:text="Display4"
             android:textAppearance="@style/TextAppearance.AppCompat.Display4"
-            text
             />
 
 
